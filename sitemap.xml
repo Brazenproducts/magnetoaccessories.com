@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://magnetoaccessories.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://magnetoaccessories.com/best-best-magnetic-car-truck-accessories-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://magnetoaccessories.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://magnetoaccessories.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://magnetoaccessories.com/contact.html</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://magnetoaccessories.com/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
